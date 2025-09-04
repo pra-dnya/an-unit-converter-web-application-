@@ -1,0 +1,5 @@
+{
+  "name": "React Unit Converter",
+  "description": "A sleek and modern unit converter application built with React, TypeScript, and Tailwind CSS. It handles conversions for length, weight, and temperature with a user-friendly interface.",
+  "requestFramePermissions": []
+}
